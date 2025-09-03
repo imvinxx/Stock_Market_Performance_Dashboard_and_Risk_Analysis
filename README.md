@@ -1,7 +1,6 @@
 # Stock_Market_Performance_Dashboard_and_Risk_Analysis
-Analyze stock market performance and assess risk metrics to provide investment insights for a portfolio of stocks.
 
-A fully open‑source, refreshable dashboard for analyzing and visualizing price trends, risk metrics (volatility, Sharpe), and correlations for major Indian listed stocks using **Power BI** and **Python (Google Colab)**.
+A refreshable dashboard for analyzing and visualizing price trends, risk metrics (volatility, Sharpe), and correlations for major Indian listed stocks using **Power BI** and **Python (Google Colab)**.
 
 ![Dashboard Screenshot](./Dashboard_Screenshot.png)
 
