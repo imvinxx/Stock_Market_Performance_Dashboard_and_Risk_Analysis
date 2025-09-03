@@ -137,6 +137,6 @@ A: It's a "long" (stacked) form of the correlations between daily returns of sto
 
 ---
 
-> **Project by: [Vinay Kumar]**  
+> **Project by: Vinay Kumar**  
 
 
